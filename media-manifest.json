@@ -1,0 +1,67 @@
+[
+  {
+    "type": "image",
+    "src": "media/IMG_0072.jpeg",
+    "name": "IMG 0072"
+  },
+  {
+    "type": "image",
+    "src": "media/IMG_0076.jpeg",
+    "name": "IMG 0076"
+  },
+  {
+    "type": "image",
+    "src": "media/IMG_0077.jpeg",
+    "name": "IMG 0077"
+  },
+  {
+    "type": "image",
+    "src": "media/jpq before-after-1-siding.jpg",
+    "name": "jpq before after 1 siding"
+  },
+  {
+    "type": "image",
+    "src": "media/jpq commercial work.jpg",
+    "name": "jpq commercial work"
+  },
+  {
+    "type": "image",
+    "src": "media/jpq roofing.jpg",
+    "name": "jpq roofing"
+  },
+  {
+    "type": "video",
+    "src": "media/jpq_siding_day_02.MP4",
+    "name": "jpq siding day 02"
+  },
+  {
+    "type": "image",
+    "src": "media/jpq_van.jpg",
+    "name": "jpq van"
+  },
+  {
+    "type": "image",
+    "src": "media/jpq_van_clean.jpg",
+    "name": "jpq van clean"
+  },
+  {
+    "type": "image",
+    "src": "media/jpq_van_photo_01.jpg",
+    "name": "jpq van photo 01"
+  },
+  {
+    "type": "image",
+    "src": "media/jpq_van_photo_02.jpg",
+    "name": "jpq van photo 02"
+  },
+  {
+    "type": "image",
+    "src": "media/jpq_van_photo_03.jpg",
+    "name": "jpq van photo 03"
+  },
+  {
+    "type": "image",
+    "src": "media/jpq_van_photo_04.jpg",
+    "name": "jpq van photo 04"
+  }
+]
